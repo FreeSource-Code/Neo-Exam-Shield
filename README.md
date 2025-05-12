@@ -80,7 +80,7 @@ Help improve our database by contributing questions:
 We’d love to hear from you!  
 If you have suggestions, found bugs, or want to help improve the extension:
 
-📧 **Email us:** freeneopass@gmail.com
+📧 **Email us:** connectbystdent@gmail.com
 
 ---
 
